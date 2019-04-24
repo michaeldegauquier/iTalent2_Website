@@ -1,0 +1,40 @@
+body
+{
+  background-image: url("../../images/abstract-white-transparent-waves-in-motion-at-the-top-and-bottom-on-gradient-blue-background-loop-animation_4vowt3ocg__F0000.png");
+  background-repeat: no-repeat;
+  background-color: darkgrey;
+  form
+  {
+    width: 600px;
+    margin: 0 auto;
+    textarea
+    {
+      resize: none;
+    }
+  }
+  h2
+  {
+    text-align: center;
+    text-decoration: underline;
+  }
+  table, tr, td
+  {
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    padding: 1%;
+  }
+  .map
+  {
+    width: 100%;
+    .gmap_canvas
+    {
+      padding: 2%;
+      width: 100%;
+      iframe
+      {
+        width: 100%;
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+body
+{
+  background-image: url("../../images/abstract-white-transparent-waves-in-motion-at-the-top-and-bottom-on-gradient-blue-background-loop-animation_4vowt3ocg__F0000.png");
+  background-repeat: no-repeat;
+  background-color: darkgrey;
+  .jumbotron
+  {
+    margin: 0 auto;
+    width: 90%;
+    border-radius: 20px;
+    text-align: center;
+    padding: 5%;
+  }
+  .container
+  {
+    .thumbnail
+    {
+      text-align: center;
+      img
+      {
+        width: 250px;
+        height: 150px;
+      }
+    }
+
+  }
+}
