@@ -143,5 +143,5 @@ class ProductDB {
 
 // Cyclonecode. PHP Include/Require Relative path from WebRoot Issues
 // https://stackoverflow.com/questions/14504076/php-include-require-relative-path-from-webroot-issues
-// Geraadpleegd op 23 december 2018.
+// Geraadpleegd op 9 april 2019.
 ?>
