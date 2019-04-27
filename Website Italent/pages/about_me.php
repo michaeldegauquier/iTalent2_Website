@@ -135,12 +135,12 @@ if (isset($_SESSION['loggedIn']) && !empty($_SESSION['loggedIn']) && $_SESSION['
 <body>
     <div class="jumbotron">
         <h1 class="display-4">Mijn naam is Annick Steen</h1>
-        <p class="lead">Deze pagina verteld wat meer over mij en wat ik doe in het leven.</p>
+        <p class="lead">Deze pagina vertelt wat meer over mij en wat ik doe in het leven.</p>
         <hr class="my-4">
         <p>
             Al van mijn 9 jaar wist ik dat ik kapster wou worden, voor een baas werken gaf mij niet genoeg voldoening. Ik was gefocust op het beroep zelf, met haar bezig zijn en de mensen blij maken. Transformaties en hairlooks creëren is altijd mijn doel geweest. Mijn specialiteiten zijn feest- en opsteekkapsels.
-            Het is leuk om met haar te werken omdat ik graag met verschillende mensen bezig van verschillende culturen, leeftijden en klassen. Ik vind het geweldig om nieuwe kapsels uit te proberen en innovatieve creaties.
-            Ik mik op een zo breed mogelijk cliënteel, anderstaligen, dames en heren. Ik schrik niet voor uitdagingen.
+            Het is leuk om met haar te werken omdat ik graag met verschillende mensen bezig ben van verschillende culturen, leeftijden en klassen. Ik vind het geweldig om nieuwe kapsels uit te proberen en innovatieve creaties te maken.
+            Ik mik op een zo breed mogelijk cliënteel: anderstaligen, dames, heren en kinderen. Ik schrik niet voor uitdagingen.
         </p>
     </div>
     <hr />
